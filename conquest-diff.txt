@@ -1,0 +1,507 @@
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/cheap.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/cheap.properties
+8c8
+< nbt.display.Name=ipattern:*nature*
+---
+> nbt.display.Name=ipattern:*cheap leather*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/cheap_pants.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/cheap_pants.properties
+7c7
+< nbt.display.Name=ipattern:*nature*
+---
+> nbt.display.Name=ipattern:*cheap leather*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/crusader.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/crusader.properties
+8c8
+< nbt.display.Name=regex:(?i)^(?!.*unholy).*holy.*$
+---
+> nbt.display.Name=ipattern:*crusader*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/crusader_pants.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/crusader_pants.properties
+7c7
+< nbt.display.Name=regex:(?i)^(?!.*unholy).*holy.*$
+---
+> nbt.display.Name=ipattern:*crusader*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/evil.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/evil.properties
+8c8
+< nbt.display.Name=ipattern:*unholy*
+---
+> nbt.display.Name=ipattern:*Dark plate*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/evil_pants.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/evil_pants.properties
+5c5
+< nbt.display.Name=ipattern:*unholy greaves*
+---
+> nbt.display.Name=ipattern:*Dark plate*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/furarmor.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/furarmor.properties
+7c7
+< nbt.display.Name=ipattern:*shadow*
+---
+> nbt.display.Name=ipattern:*hunt*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/furarmoroverlay.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/furarmoroverlay.properties
+7c7
+< nbt.display.Name=ipattern:*shadow*
+---
+> nbt.display.Name=ipattern:*hunt*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/furpantsoverlay.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/furpantsoverlay.properties
+7c7
+< nbt.display.Name=ipattern:*shadow*
+---
+> nbt.display.Name=ipattern:*hunt*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/lord.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/lord.properties
+8c8
+< nbt.display.Name=ipattern:*honour*
+---
+> nbt.display.Name=ipattern:*Lordish*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/lord_pants.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/lord_pants.properties
+5c5
+< nbt.display.Name=ipattern:*honour*
+---
+> nbt.display.Name=ipattern:*lordish*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/mithril_plate.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/mithril_plate.properties
+8c8
+< nbt.display.Name=ipattern:*melodic*
+---
+> nbt.display.Name=ipattern:*mithril plate*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/mithril_plate_pants.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/mithril_plate_pants.properties
+7c7
+< nbt.display.Name=ipattern:*melodic*
+---
+> nbt.display.Name=ipattern:*mithril plate*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/rogue.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/rogue.properties
+8c8
+< nbt.display.Name=ipattern:*deceit*
+---
+> nbt.display.Name=ipattern:*rogue*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/rogue_pants.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/rogue_pants.properties
+7c7
+< nbt.display.Name=ipattern:*deceit*
+---
+> nbt.display.Name=ipattern:*rogue*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/tourney.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/tourney.properties
+8c8
+< nbt.display.Name=ipattern:*battle*
+---
+> nbt.display.Name=ipattern:*Tourney*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/armor/tourney_pants.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/armor/tourney_pants.properties
+7c7
+< nbt.display.Name=ipattern:*battle*
+---
+> nbt.display.Name=ipattern:*tourney*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/crusader_boots.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/crusader_boots.properties
+3c3
+< nbt.display.Name=regex:(?i)^(?!.*unholy).*holy.*$
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*crusader*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/crusader_chestplate.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/crusader_chestplate.properties
+3c3
+< nbt.display.Name=regex:(?i)^(?!.*unholy).*holy.*$
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*crusader*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/crusader_helmet.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/crusader_helmet.properties
+3c3
+< nbt.display.Name=regex:(?i)^(?!.*unholy).*holy.*$
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*crusader*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/crusader_leggings.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/crusader_leggings.properties
+3c3
+< nbt.display.Name=regex:(?i)^(?!.*unholy).*holy.*$
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*crusader*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/evil_boots.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/evil_boots.properties
+3c3
+< nbt.display.Name=ipattern:*unholy sabatons*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*dark plate*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/evil_chest.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/evil_chest.properties
+3c3
+< nbt.display.Name=ipattern:*unholy chestplate*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*dark plate*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/evil_helmet.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/evil_helmet.properties
+3c3
+< nbt.display.Name=ipattern:*unholy helm*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*dark plate*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/evil_pants.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/evil_pants.properties
+3c3
+< nbt.display.Name=ipattern:*unholy greaves*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*dark plate*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/fur_boots.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/fur_boots.properties
+3c3
+< nbt.display.Name=ipattern:*shadow*
+---
+> nbt.display.Name=ipattern:*hunt*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/fur_boots_colored.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/fur_boots_colored.properties
+3c3
+< nbt.display.Name=ipattern:*shadow*
+---
+> nbt.display.Name=ipattern:*hunt*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/fur_chestplate.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/fur_chestplate.properties
+3c3
+< nbt.display.Name=ipattern:*shadow*
+---
+> nbt.display.Name=ipattern:*hunt*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/fur_chestplate_colored.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/fur_chestplate_colored.properties
+3c3
+< nbt.display.Name=ipattern:*shadow*
+---
+> nbt.display.Name=ipattern:*hunt*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/fur_helmet.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/fur_helmet.properties
+3c3
+< nbt.display.Name=ipattern:*shadow*
+---
+> nbt.display.Name=ipattern:*hunt*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/fur_helmet_colored.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/fur_helmet_colored.properties
+3c3
+< nbt.display.Name=ipattern:*shadow*
+---
+> nbt.display.Name=ipattern:*hunt*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/fur_leggings.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/fur_leggings.properties
+3c3
+< nbt.display.Name=ipattern:shadow*
+---
+> nbt.display.Name=ipattern:hunt*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/fur_leggings_colored.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/fur_leggings_colored.properties
+3c3
+< nbt.display.Name=ipattern:shadow*
+---
+> nbt.display.Name=ipattern:hunt*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/leather_chestplate.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/leather_chestplate.properties
+3c3
+< nbt.display.Name=ipattern:*nature*
+---
+> nbt.display.Name=ipattern:*cheap leather*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/leather_helmet.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/leather_helmet.properties
+3c3
+< nbt.display.Name=ipattern:*nature*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*cheap leather*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/leather_leggings.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/leather_leggings.properties
+3c3
+< nbt.display.Name=ipattern:*nature*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*cheap leather*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/lord_boots.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/lord_boots.properties
+3c3
+< nbt.display.Name=ipattern:*honour*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*lordish*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/lord_chest.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/lord_chest.properties
+3c3
+< nbt.display.Name=ipattern:*honour*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*lordish*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/lord_helmet.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/lord_helmet.properties
+3c3
+< nbt.display.Name=ipattern:*honour*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*lordish*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/lord_pants.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/lord_pants.properties
+3c3
+< nbt.display.Name=ipattern:*honour*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*lordish*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/mithril_boots.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/mithril_boots.properties
+3c3
+< nbt.display.Name=ipattern:*melodic*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*mithril plate*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/mithril_chest.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/mithril_chest.properties
+3c3
+< nbt.display.Name=ipattern:*melodic*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*mithril plate*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/mithril_helmet.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/mithril_helmet.properties
+3c3
+< nbt.display.Name=ipattern:*melodic*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*mithril plate*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/mithril_pants.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/mithril_pants.properties
+3c3
+< nbt.display.Name=ipattern:*melodic*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*mithril plate*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/rogue_boots.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/rogue_boots.properties
+3c3
+< nbt.display.Name=ipattern:*deceit*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*rogue*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/rogue_chest.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/rogue_chest.properties
+3c3
+< nbt.display.Name=ipattern:*deceit*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*rogue*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/rogue_helmet.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/rogue_helmet.properties
+3c3
+< nbt.display.Name=ipattern:*deceit*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*rogue*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/rogue_pants.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/rogue_pants.properties
+3c3
+< nbt.display.Name=ipattern:*deceit*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*rogue*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/tourney_boots.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/tourney_boots.properties
+3c3
+< nbt.display.Name=ipattern:*battle*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*Tourney*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/tourney_chest.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/tourney_chest.properties
+3c3
+< nbt.display.Name=ipattern:*battle*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*Tourney*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/tourney_helm.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/tourney_helm.properties
+3c3
+< nbt.display.Name=ipattern:*battle*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*Tourney*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/armoricons/tourney_pants.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/armoricons/tourney_pants.properties
+3c3
+< nbt.display.Name=ipattern:*battle*
+\ No newline at end of file
+---
+> nbt.display.Name=ipattern:*tourney*
+\ No newline at end of file
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/bows/elven_longbow.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/bows/elven_longbow.properties
+2c2
+< nbt.display.Name=ipattern:*shadow bow*
+---
+> nbt.display.Name=ipattern:*elven longbow*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/bows/steel_bow.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/bows/steel_bow.properties
+2c2
+< nbt.display.Name=ipattern:*deceit bow*
+---
+> nbt.display.Name=ipattern:*small warbow*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/bone_club.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/bone_club.properties
+2c2
+< nbt.display.Name=ipattern:*feral warclub*
+---
+> nbt.display.Name=ipattern:*boneclub*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/dark_blade.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/dark_blade.properties
+2c2
+< nbt.display.Name=ipattern:*unholy sword*
+---
+> nbt.display.Name=ipattern:*dark blade*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/dwarven_sword.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/dwarven_sword.properties
+2c2
+< nbt.display.Name=ipattern:*battle sword*
+---
+> nbt.display.Name=ipattern:*dwarven sword*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/excalibur.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/excalibur.properties
+2c2
+< nbt.display.Name=ipattern:*honour sword*
+---
+> nbt.display.Name=ipattern:*excalibur*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/hoplite_sword.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/hoplite_sword.properties
+2c2
+< nbt.display.Name=ipattern:*shadow sword*
+---
+> nbt.display.Name=ipattern:*hoplite sword*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/huntingknife.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/huntingknife.properties
+2c2
+< nbt.display.Name=ipattern:*deceit dagger*
+---
+> nbt.display.Name=ipattern:*hunting knife*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/mace_steel.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/mace_steel.properties
+2c2
+< nbt.display.Name=ipattern:*holy staff*
+---
+> nbt.display.Name=ipattern:*heavy mace*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/monkspade.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/monkspade.properties
+2c2
+< nbt.display.Name=ipattern:*magic staff*
+---
+> nbt.display.Name=ipattern:*monkspade*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/orcish_warscythe.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/orcish_warscythe.properties
+2c2
+< nbt.display.Name=ipattern:*fire staff*
+---
+> nbt.display.Name=ipattern:*orcish warscythe*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/panabas.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/panabas.properties
+2c2
+< nbt.display.Name=ipattern:*raging sword*
+---
+> nbt.display.Name=ipattern:*panabas*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/sasumata.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/sasumata.properties
+2c2
+< nbt.display.Name=ipattern:*rotting staff*
+---
+> nbt.display.Name=ipattern:*sasumata*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/small_battleaxe.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/small_battleaxe.properties
+2c2
+< nbt.display.Name=ipattern:*raging axe*
+---
+> nbt.display.Name=ipattern:*small battleaxe*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/spartan_blade.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/spartan_blade.properties
+2c2
+< nbt.display.Name=ipattern:*melodic sword*
+---
+> nbt.display.Name=ipattern:*spartan officer sword*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/melee/staff_iron.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/melee/staff_iron.properties
+2c2
+< nbt.display.Name=ipattern:*stoic staff*
+---
+> nbt.display.Name=ipattern:*Fighting staff*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/shield/african_tall.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/shield/african_tall.properties
+3c3
+< nbt.display.Name=ipattern:*spirit shield*
+---
+> nbt.display.Name=ipattern:*african tall*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/shield/big_roman_scutum.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/shield/big_roman_scutum.properties
+3c3
+< nbt.display.Name=ipattern:*battle shield*
+---
+> nbt.display.Name=ipattern:*big roman scutum*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/shield/big_round_wood.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/shield/big_round_wood.properties
+3c3
+< nbt.display.Name=ipattern:*nature shield*
+---
+> nbt.display.Name=ipattern:*big round woodshield*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/shield/coffin_shield.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/shield/coffin_shield.properties
+3c3
+< nbt.display.Name=ipattern:*unholy shield*
+---
+> nbt.display.Name=ipattern:*coffin shield*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/shield/dwarven.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/shield/dwarven.properties
+3c3
+< nbt.display.Name=ipattern:*holy shield*
+---
+> nbt.display.Name=ipattern:*dwarven shield*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/shield/elven.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/shield/elven.properties
+3c3
+< nbt.display.Name=ipattern:*psychic shield*
+---
+> nbt.display.Name=ipattern:*golden elven shield*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/shield/elven_silver.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/shield/elven_silver.properties
+3c3
+< nbt.display.Name=ipattern:*magic shield*
+---
+> nbt.display.Name=ipattern:*silver elven shield*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/shield/greek_cut.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/shield/greek_cut.properties
+3c3
+< nbt.display.Name=ipattern:*fire shield*
+---
+> nbt.display.Name=ipattern:*greek cut*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/shield/jousting_shield.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/shield/jousting_shield.properties
+3c3
+< nbt.display.Name=ipattern:*honour shield*
+---
+> nbt.display.Name=ipattern:*jousting shield*
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine/cit/items/shield/orc.properties /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/optifine/cit/items/shield/orc.properties
+3c3
+< nbt.display.Name=ipattern:*rotting shield*
+---
+> nbt.display.Name=ipattern:*orcish shield*
+Only in /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/optifine: font
+Only in /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/sounds: music
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/sounds.json /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/sounds.json
+2,54d1
+<   "music.game": {
+<     "category": "music",
+<     "sounds": [
+<       {
+<         "name": "music/game/calm1",
+<         "stream": true
+<       },
+<       {
+<         "name": "music/game/calm2",
+<         "stream": true
+<       },
+<       {
+<         "name": "music/game/calm3",
+<         "stream": true
+<       },
+<       {
+<         "name": "music/game/hal1",
+<         "stream": true
+<       },
+<       {
+<         "name": "music/game/hal2",
+<         "stream": true
+<       },
+<       {
+<         "name": "music/game/hal3",
+<         "stream": true
+<       },
+<       {
+<         "name": "music/game/hal4",
+<         "stream": true
+<       },
+<       {
+<         "name": "music/game/nuance1",
+<         "stream": true
+<       },
+<       {
+<         "name": "music/game/nuance2",
+<         "stream": true
+<       },
+<       {
+<         "name": "music/game/piano1",
+<         "stream": true
+<       },
+<       {
+<         "name": "music/game/piano2",
+<         "stream": true
+<       },
+<       {
+<         "name": "music/game/piano3",
+<         "stream": true
+<       }
+<     ]
+<   },
+Binary files /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/textures/gui/title/edition.png and /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/textures/gui/title/edition.png differ
+Binary files /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/textures/gui/title/minecraft.png and /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/textures/gui/title/minecraft.png differ
+Binary files /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/assets/minecraft/textures/gui/title/mojang.png and /mnt/c/users/mixxit/Desktop/Conquest_1.13/assets/minecraft/textures/gui/title/mojang.png differ
+diff -r /mnt/c/users/mixxit/AppData/Roaming/.minecraft/resourcepacks/solinia3-resourcepack-1.13/pack.mcmeta /mnt/c/users/mixxit/Desktop/Conquest_1.13/pack.mcmeta
+4c4
+<     "description":"FOAE V0.11"
+---
+>     "description":"\u00A76V1.1 \u00A77for MC 1.13+ \n\u00A7o\u00A74>> \u00A77\u00A7oOptifine for better textures"
